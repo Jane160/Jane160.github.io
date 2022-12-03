@@ -1,0 +1,37 @@
+body{
+background-color: #da8840;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin: 0%; 
+padding: 0%;
+text-align: center;
+}
+
+.imagen{
+    width: 300px;
+}
+
+#imagen-2{
+    border-radius: 20px ;
+    border: 2px dashed #000 ;
+    width: 300px ;
+}
+
+.imagen-2{
+    width: 450px ;
+}
+
+#gallery{
+    margin: 5px ;
+    padding: 10px;
+    text-align: center;
+}
+ #gallery img{
+    width: 500px ;
+ }
+.mb-4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ border-color: #FF9224;
+    background-color: #D8B6E3;
+}
+
+    
